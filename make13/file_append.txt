@@ -1,0 +1,4 @@
+character 66,line 2, word ,12;
+character 66, line 2, word 12;
+character 66, line 2, word 12;
+character 5786, line 53, word 1028;
